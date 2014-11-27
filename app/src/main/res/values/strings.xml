@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bola de Cristal</string><string name="respuesta">¡La respuesta es sí!</string>
+    
+    <string name="action_settings">Settings</string>
+    
+    <string name="pregunta">Haz tu pregunta</string>
+    
+    <string name="Sí">Respuesta</string>
+    
+    <string name="Respuesta">Sí</string>
+
+</resources>
